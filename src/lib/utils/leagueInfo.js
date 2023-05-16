@@ -7,12 +7,14 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Weclome to the AFC League! This league is part of a greater league called the DFL, and consists of one other leagye, the NFC.</p>
+  <p>This league started in 2021 and is run and commissioned by Deca. There are a total of 12 teams.</p>
+  <p>The DFL League as a whole is run and commissioned by Mars.</p>
+  <p>In the 2 years the DFL has been running, the AFC has won the most recent SB which came in 2022. It was was won by Mustard.</p>
+  <p>There are 3 divisions, the AFC West, AFC Central, and AFC East. The teams that represent these divisions and the AFC are:</p>
+  <p>AFC West: Meli, Revan, Kgs, Deca</p>
+  <p>AFC Central: Jack, Zeebo, Scooby, Stonk</p>
+  <p>AFC East: Mustard, Dom, Explodo, Alpha</p>
 `;
 
 /*   STEP 3   */
